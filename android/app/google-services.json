@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "152575154853",
+    "project_id": "housequ-8929f",
+    "storage_bucket": "housequ-8929f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152575154853:android:75d02fca3c54487863cb4c",
+        "android_client_info": {
+          "package_name": "com.prasetyoaji.housequ"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152575154853-knjteso10mc7bo0alce1qsj2rsgo8ji3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_lIrn-glw3klJ5UQ1sBbm319430lHBR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152575154853-knjteso10mc7bo0alce1qsj2rsgo8ji3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
